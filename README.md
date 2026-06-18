@@ -9,13 +9,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Cloud+Engineer;AWS+%7C+Docker+%7C+GitHub+Actions;Learning+Terraform+%26+Kubernetes;Building+Real+World+Projects" />
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Cloud+Engineer;AWS+%7C+Docker+%7C+GitHub+Actions;Learning+Terraform+%26+Kubernetes;Building+Real+World+Projects" />
-</p>
-
-🚀 **Aspiring Cloud Engineer**
-
-☁️ AWS | 🐧 Linux | 🐳 Docker | ⚙️ GitHub Actions
 
 ---
 
