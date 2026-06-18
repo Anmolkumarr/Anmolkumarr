@@ -21,6 +21,7 @@
 - ⚙️ Built CI/CD Pipelines using GitHub Actions
 - 🌍 Building Real World Cloud Projects
 - 📚 Learning in Public
+- 📍 Delhi, India
 
 ---
 
@@ -34,7 +35,7 @@
 | CI/CD Automation                 | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=github-actions\&logoColor=white)                                                                                           |
 | Operating Systems & Scripting    | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square\&logo=gnubash\&logoColor=white)                   |
 | Version Control                  | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)                      |
-| }                                |                                                                                                                                                                                                                         |
+                                                                                                                                                                                                                      |
 
 ---
 
