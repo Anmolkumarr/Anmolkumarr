@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Anmol%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Aspiring%20Cloud%20Engineer%20%7C%20AWS%20%7C%20Docker%20%7C%20GitHub%20Actions&descAlignY=60"/>
 
-                               # 👋 Hi, I'm Anmol Kumar
+ # 👋 Hi, I'm Anmol Kumar
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Cloud+Engineer;AWS+%7C+Docker+%7C+GitHub+Actions;Learning+Terraform+%26+Kubernetes;Building+Real+World+Projects" />
 </p>
@@ -87,9 +87,13 @@ Cloud Notes & Hands-on Learning
 
 ## 📊 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=Anmolkumarr&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anmolkumarr&show_icons=true&theme=tokyonight" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anmolkumarr&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmolkumarr&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
