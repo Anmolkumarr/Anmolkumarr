@@ -22,25 +22,18 @@
 - 📚 Learning in Public
 
 ---
-## 🚀 Tech Stack
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ## 🛠️ Cloud Ecosystem & Tooling
 
-| Category | Technologies |
-|-----------|-------------|
-| Cloud | AWS |
-| Operating System | Linux |
-| Containers | Docker |
-| CI/CD | GitHub Actions |
-| Version Control | Git & GitHub |
-| Infrastructure as Code | Terraform (Learning) |
-| Orchestration | Kubernetes (Learning) |
+| Layer                            | Technologies                                                                                                                                                                                                            |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Cloud Providers                  | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)                                                                                                                      |
+| Containerization & Orchestration | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white) |
+| Infrastructure as Code (IaC)     | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square\&logo=terraform\&logoColor=white)                                                                                                          |
+| CI/CD Automation                 | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=github-actions\&logoColor=white)                                                                                           |
+| Operating Systems & Scripting    | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square\&logo=gnubash\&logoColor=white)                   |
+| Version Control                  | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)                      |
+| }                                |                                                                                                                                                                                                                         |
 
 ---
 
@@ -114,15 +107,28 @@ Cloud Notes & Hands-on Learning
 
 ## 🤝 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anmol%20Kumar-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/anmol-kumar19/)
+
+
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:01singhsahab19@gmail.com) 
+
+
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://anmol-portfolio-phi.vercel.app/)
 
-[![Docker Hub](https://img.shields.io/badge/DockerHub-Profile-2496ED?style=for-the-badge&logo=docker)](https://hub.docker.com/u/imanmol19)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Anmolkumarr-black?style=for-the-badge&logo=github)](https://github.com/Anmolkumarr)
+
+[![Docker Hub](https://img.shields.io/badge/DockerHub-Profile-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)](https://hub.docker.com/u/imanmol19)
+
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-Anmolkumarr-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Anmolkumarr)
+
 
 ---
 
-🚀 Learn • Build • Share
+                              🚀 Learn • Build • Share
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anmolkumarr&label=Profile+Views&color=0e75b6&style=flat" />
